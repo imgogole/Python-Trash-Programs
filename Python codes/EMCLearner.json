@@ -1,0 +1,289 @@
+{
+    "1" :
+    {
+        "Question" : "Quand est-ce qu'Adolf Hitler provoqua l'incendie du Reichstag ?",
+        "Answer" : "28 février 1933",
+        "WrongAnswers" : ["$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate"],
+        "ProbQCM" : 50
+    },
+    "2" :
+    {
+        "Question" : "A quelle période le régime nazi dirigea l'Allemagne ?",
+        "Answer" : "1933 - 1945",
+        "WrongAnswers" : ["1926 - 1953", "1932 - 1945", "1918 - 1933"],
+        "ProbQCM" : 100
+    },
+    "3" :
+    {
+        "Question" : "Donnez la meilleure définition de la démocratie. ",
+        "Answer" : "Régime politique dans lequel le peuple choisit ses réprésentants, on dit que le peuple est souverain.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "4" :
+    {
+        "Question" : "Donnez la meilleure définition de l'Etat de droit. ",
+        "Answer" : "Système institutionel dans lequel la puissance publique est résumée au droit.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "5" :
+    {
+        "Question" : "Donnez la meilleure définition de la démocratie directe. ",
+        "Answer" : "Tous les citoyens exercent directement le pouvoir sans intermédiaire des représentants.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "6" :
+    {
+        "Question" : "Donnez la meilleure définition de la démocratie représentative. ",
+        "Answer" : "Démocratie où les décisions sont prises par les représentants.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "7" :
+    {
+        "Question" : "A quel régime appartient le Royaume-Uni ?",
+        "Answer" : "Monarchie parlementaire",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "8" :
+    {
+        "Question" : "A quel régime appartient la Russie ?",
+        "Answer" : "République autoritaire",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "9" :
+    {
+        "Question" : "A quel régime appartient la France ?",
+        "Answer" : "République démocratique",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "10" :
+    {
+        "Question" : "A quel régime appartient la Corée du Nord ?",
+        "Answer" : "Dictature",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "11" :
+    {
+        "Question" : "A quel régime appartient les Etat-Unis ?",
+        "Answer" : "République démocratique",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "12" :
+    {
+        "Question" : "A quel régime appartient la Chine ?",
+        "Answer" : "République populaire",
+        "WrongAnswers" : ["$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg","$randomReg"],
+        "ProbQCM" : 80
+    },
+    "13" :
+    {
+        "Question" : "Depuis quelle année le Royaume-Uni est gouverné par Elizabeth II ?",
+        "Answer" : "1952",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "14" :
+    {
+        "Question" : "Depuis quelle année la Russie est gouvernée par Vladimir Poutine ?",
+        "Answer" : "2000",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "15" :
+    {
+        "Question" : "Depuis quelle année la France est gouvernée par Emmanuel Macron ?",
+        "Answer" : "2017",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "16" :
+    {
+        "Question" : "Depuis quelle année la Corée du Nord est gouvernée par Kim Jung Un ?",
+        "Answer" : "2011",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "17" :
+    {
+        "Question" : "Depuis quelle année les USA sont gouvernés par Joe Biden ?",
+        "Answer" : "2021",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "18" :
+    {
+        "Question" : "Depuis quelle année la Chine est gouvernée par Xi Jinping ?",
+        "Answer" : "2013",
+        "WrongAnswers" : ["$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 40
+    },
+    "19" :
+    {
+        "Question" : "Donnez la meilleure définition de la monarchie parlementaire. ",
+        "Answer" : "Monarchie dans laquelle les pouvoirs sont soumis et limités par une constitution.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "20" :
+    {
+        "Question" : "Donnez la liste des pays où la reine Elizabeth II est chef d'état.",
+        "Answer" : "Canada, Australie, Nouvelle-Zélande, Royaume-Uni",
+        "WrongAnswers" : ["$randomCountry 4","$randomCountry 4","$randomCountry 4","$randomCountry 4","$randomCountry 4","$randomCountry 4","$randomCountry 4"],
+        "ProbQCM" : 50
+    },
+    "21" :
+    {
+        "Question" : "Donnez la meilleure définition d'une nation. ",
+        "Answer" : "Ensemble des individus qui se reconnaissent destin commun et partage une même culture.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "22" :
+    {
+        "Question" : "Donnez la liste des pays encore monarchie en Europe.",
+        "Answer" : "Norvège, Suède, Danemark, Espagne, Belgique, Pays-Bas",
+        "WrongAnswers" : ["$randomCountry 6","$randomCountry 6","$randomCountry 6","$randomCountry 6","$randomCountry 6","$randomCountry 6","$randomCountry 6"],
+        "ProbQCM" : 50
+    },
+    "23" :
+    {
+        "Question" : "Comment s'appelle les réformes qui ont mis en place la démocratie à Athènes ?",
+        "Answer" : "Les réformes de Clistène",
+        "WrongAnswers" : ["Les réformes d'Aristote", "Les réformes de Cristelle", "Les réformes de Platon", "Les réformes des Aristocrates"],
+        "ProbQCM" : 20
+    },
+    "24" :
+    {
+        "Question" : "La démocratie à Athènes est...",
+        "Answer" : "Incomplète",
+        "WrongAnswers" : ["Parfaite", "Incomprise", "Complète", "Constitutionelle"],
+        "ProbQCM" : 50
+    },
+    "25" :
+    {
+        "Question" : "Donnez la meilleure définition d'un scrutin uninominal majoritaire à 2 tours.",
+        "Answer" : "Vote des électeurs sur un seul candidat élu à la majorité relative au second tour.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "26" :
+    {
+        "Question" : "Donnez la meilleure définition d'un scrutin de liste proportionnel.",
+        "Answer" : "Mode de désignation par éléction qui attribue les sièges selon le nombre de voix obtenues par les différentes listes.",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 50
+    },
+    "27" :
+    {
+        "Question" : "Donnez la meilleure définition d'un parti politique.",
+        "Answer" : "Organisation dont les membres partagent des valeurs et des idées et mènent une action commune pour faire élire leurs représentants aux éléctions locales et nationales",
+        "WrongAnswers" : ["$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef","$randomDef"],
+        "ProbQCM" : 90
+    },
+    "28" :
+    {
+        "Question" : "Comment s'appelle la police politique du régime nazi ?",
+        "Answer" : "La Gestapo",
+        "WrongAnswers" : ["La Ovra", "La NKVD", "La milice"],
+        "ProbQCM" : 30
+    },
+    "29" :
+    {
+        "Question" : "Quel année Mussolini instaure les lois fascistes en Italie ?",
+        "Answer" : "1925",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "30" :
+    {
+        "Question" : "Qui était le président socialiste du Chili de 1970 à 1973 ?",
+        "Answer" : "Salvador Allende",
+        "WrongAnswers" : ["Augusto Pinochet", "Fidel Castro", "Che Guevara"],
+        "ProbQCM" : 30
+    },
+    "31" :
+    {
+        "Question" : "A quel période le régime fasciste de Mussolini a duré ?",
+        "Answer" : "1922 - 1945",
+        "WrongAnswers" : ["1933 - 1945", "1923 - 1945", "1922 - 1933", "1925 - 1945"],
+        "ProbQCM" : 30
+    },
+    "32" :
+    {
+        "Question" : "A quel année l'antisémitisme en Italie a été instauré dans les lois fascites ?",
+        "Answer" : "1938",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "33" :
+    {
+        "Question" : "Quand Augusto Pinochet réalise le coup d'Etat contre le régime socialiste ?",
+        "Answer" : "11 septembre 1973",
+        "WrongAnswers" : ["$randomDate", "$randomDate", "$randomDate", "$randomDate", "$randomDate", "$randomDate", "$randomDate", "$randomDate", "$randomDate"],
+        "ProbQCM" : 50
+    },
+    "34" :
+    {
+        "Question" : "En quelle année Augusto Pinochet est contraint de mettre fin à son mandat ?",
+        "Answer" : "1989",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "35" :
+    {
+        "Question" : "En quelle année la loi de Jules Ferry sur la laïcité est instaurée ?",
+        "Answer" : "1882",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "36" :
+    {
+        "Question" : "En quelle année la loi de la séparation de l'Eglise et de l'état est instaurée ?",
+        "Answer" : "1905",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "37" :
+    {
+        "Question" : "En quelle année la laïcité est inscrite dans la Constitution française ?",
+        "Answer" : "1958",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "38" :
+    {
+        "Question" : "En quelle année la loi sur le port de signe religieux est instaurée ?",
+        "Answer" : "2004",
+        "WrongAnswers" : ["$randomYear", "$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear","$randomYear"],
+        "ProbQCM" : 30
+    },
+    "39" :
+    {
+        "Question" : "Quel est la prochaine date de la journée de la laïcité ?",
+        "Answer" : "9 décembre 2022",
+        "WrongAnswers" : ["$randomDate", "$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate"],
+        "ProbQCM" : 30
+    },
+    "40" :
+    {
+        "Question" : "Quel jour le président français Sadi Carnot a été assassiné par un anarchiste italien ?",
+        "Answer" : "25 juin 1894",
+        "WrongAnswers" : ["$randomDate", "$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate","$randomDate"],
+        "ProbQCM" : 30
+    },
+    "41" :
+    {
+        "Question" : "Quel ville le président français Sadi Carnot a été assassiné par un anarchiste italien ?",
+        "Answer" : "Lyon",
+        "WrongAnswers" : ["Marseille", "Paris", "Dijon", "Brest", "Versailles", "Nice"],
+        "ProbQCM" : 30
+    }
+}
